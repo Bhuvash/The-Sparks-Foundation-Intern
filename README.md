@@ -7,3 +7,5 @@ This Repo contains tasks for Data Science & Business Analytics domains assigned 
 
 * Task 1 : Predict the percentage of marks of the student based on the number of study hours.
 * Task 2 : Predict and Visualising the Optimum Number of Clusters.
+* Task 3 : Predict and Visualising using Decision Tree classifier.
+
