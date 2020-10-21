@@ -11,4 +11,4 @@ This Repo contains tasks for Data Science & Business Analytics domains assigned 
 : Predict and Visualising the Optimum Number of Clusters.
 * [**Task 3**](https://github.com/Deff-ux/The-Sparks-Foundation-Intern/blob/main/Task%203%20GRIP%20-%20Prediction%20using%20Decision%20Tree%20Algorithm.ipynb) 
 : Predict and Visualising using Decision Tree classifier.
-
+* [**Task 4**](https://github.com/Deff-ux/The-Sparks-Foundation-Intern/blob/main/Task%204%20GRIP%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis-XGBoost-FInal.ipynb): Stock Market Prediction using Numerical and Textual Analysis
